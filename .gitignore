@@ -1,0 +1,38 @@
+# Python general
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+venv/
+env/
+ENV/
+
+# Environment variables
+.env # IMPORTANT: Ignore your credentials!
+
+# Database files (if any local ones created)
+*.sqlite
+*.db
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Output directories
+output_plots/
+
+# Other
+*.log
+*.tmp
+*.swp

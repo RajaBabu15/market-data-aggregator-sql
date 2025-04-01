@@ -1,0 +1,9 @@
+pandas
+requests
+yfinance
+psycopg2-binary  
+sqlalchemy
+matplotlib
+mplfinance      
+python-dotenv 
+numpy          
